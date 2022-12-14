@@ -8,3 +8,4 @@
 - 🌱 I’m currently learning all about tests (and automation), Spanish, English, Cypress, Robot  and JavaScript languages <br>
       Estou atualmente aprendendo tudo sobre testes (e automação), e as linguagens Espanhol, Inglês, Cypress, Robot e JavaScript
       
+Cogito Ergo Sum
