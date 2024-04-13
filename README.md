@@ -1,5 +1,5 @@
-### Hello, World!!  
-### Olá, Mundo!! 👋
+## Hello, World!!  
+## Olá, Mundo!! 👋
 
 
 - 🔭 I’m currently working on software tests <br>
@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning all about tests (and automation), Spanish, English, Cypress, Robot Framework and JavaScript languages <br>
       Estou atualmente aprendendo tudo sobre testes (e automação), e as linguagens Espanhol, Inglês, Cypress, Robot Framework e JavaScript
       
-Cogito Ergo Sum
+## Cogito Ergo Sum
