@@ -1,13 +1,21 @@
 ## Hello, World!!  
 ## Olá, Mundo!! 👋
 
-
 - 🔭 I’m currently working on software tests <br>
       Estou atualmente trabalhando com testes de software
 
 - 🌱 I’m currently learning all about tests (and automation), Spanish, English, Cypress, Robot Framework and JavaScript languages <br>
       Estou atualmente aprendendo tudo sobre testes (e automação), e as linguagens Espanhol, Inglês, Cypress, Robot Framework e JavaScript
-      
+      <br>
+Cursando Análise e Desenvolvimento de Sistemas ##(3o semestre)
+Formada em Gestão de T.I.
+Pós-graduada em:
+       Engenharia de Software com Enfase em Qualidade e Testes de Software
+       Gestão de Projetos
+Participei dos Projetos:
+       Qa.Coders
+       Pipoca Ágil
+Membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: "
 ## Cogito Ergo Sum
 <br>
 
