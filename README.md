@@ -6,16 +6,17 @@
 
 - 🌱 I’m currently learning all about tests (and automation), Spanish, English, Cypress, Robot Framework and JavaScript languages <br>
       Estou atualmente aprendendo tudo sobre testes (e automação), e as linguagens Espanhol, Inglês, Cypress, Robot Framework e JavaScript
-      <br>
-Cursando Análise e Desenvolvimento de Sistemas ##(3o semestre)
-Formada em Gestão de T.I.
-Pós-graduada em:
-       Engenharia de Software com Enfase em Qualidade e Testes de Software
+
+<br>
+<p>Cursando Análise e Desenvolvimento de Sistemas (3o semestre)</p>
+<p>Formada em Gestão de T.I.</p>
+<p>Pós-graduada em:</p>
+       Engenharia de Software com Enfase em Qualidade e Testes de Software <br>
        Gestão de Projetos
-Participei dos Projetos:
-       Qa.Coders
+<p>Participei dos Projetos:</p>
+       Qa.Coders <br>
        Pipoca Ágil
-Membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: "
+<p>Membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: " </p>
 ## Cogito Ergo Sum
 <br>
 
