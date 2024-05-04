@@ -12,5 +12,5 @@
 <br>
 
 ## **Skills**
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]() [![vs Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)]() [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]() [![Octane](https://img.shields.io/badge/Octane-0052CC?style=for-the-badge&logo=Octane&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]() [![vs Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)]() [![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]() [![Octane](https://img.shields.io/badge/Octane-0052CC?style=for-the-badge&logo=Octane&logoColor=white)]() [![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white)]()
 <br> 
