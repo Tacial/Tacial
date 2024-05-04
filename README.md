@@ -10,12 +10,12 @@
 <br>
 <p>Cursando Análise e Desenvolvimento de Sistemas (3o semestre)</p>
 <p>Formada em Gestão de T.I.</p>
-<p>Pós-graduada em:</p>
+<p>Pós-graduada em: <br>
        Engenharia de Software com Enfase em Qualidade e Testes de Software <br>
-       Gestão de Projetos  <br>
-<p>Participei dos Projetos:</p>
+       Gestão de Projetos </p>
+<p>Participei dos Projetos: <br>
        Qa.Coders <br>
-       Pipoca Ágil  <br>
+       Pipoca Ágil </p>
 <p>Membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: " </p>
 ## Cogito Ergo Sum
 <br>
