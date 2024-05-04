@@ -12,10 +12,10 @@
 <p>Formada em Gestão de T.I.</p>
 <p>Pós-graduada em:</p>
        Engenharia de Software com Enfase em Qualidade e Testes de Software <br>
-       Gestão de Projetos
+       Gestão de Projetos  <br>
 <p>Participei dos Projetos:</p>
        Qa.Coders <br>
-       Pipoca Ágil
+       Pipoca Ágil  <br>
 <p>Membro da comunidade "Cantinho das mulheres Q.As :lady_beetle: " </p>
 ## Cogito Ergo Sum
 <br>
