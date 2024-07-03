@@ -9,7 +9,7 @@
 
 ## Cogito Ergo Sum
 <br>
-<p>Cursando Análise e Desenvolvimento de Sistemas (3o semestre)</p>
+<p>Cursando Análise e Desenvolvimento de Sistemas (último semestre)</p>
 <p>Formada em Gestão de T.I.</p>
 <p>Pós-graduada em: <br>
       <li>Engenharia de Software com Enfase em Qualidade e Testes de Software</li> 
